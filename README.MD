@@ -8,6 +8,17 @@ Um script para pegar os valores, via requeisição web, das cotações das princ
 
   API utilizada: [FIXER.IO](https://fixer.io/)
 
+### Biblioteca para uncionamento do script
+'''sh
+pip install request
+'''
+'''sh
+pip install json
+'''
+'''sh
+pip install pandas
+'''
+
 ### Desenvolvedor
 
  - Alan Eloi dos Santos
