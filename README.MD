@@ -6,10 +6,12 @@ Um script para pegar os valores, via requeisição web, das cotações das princ
   - Euro
   - Bitcoin
 
+  API utilizada: [FIXER.IO](https://fixer.io/){:target="_blank"}
+
 ### Desenvolvedor
 
- - Víctor Romário
+ - Alan Eloi
 
 License
 ----
-**Free Software!*
+**Free Software!**
