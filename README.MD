@@ -9,15 +9,15 @@ Um script para pegar os valores, via requeisição web, das cotações das princ
   API utilizada: [FIXER.IO](https://fixer.io/)
 
 ### Biblioteca para uncionamento do script
-'''sh
+```sh
 pip install request
-'''
-'''sh
+```
+```sh
 pip install json
-'''
-'''sh
+````
+````sh
 pip install pandas
-'''
+````
 
 ### Desenvolvedor
 
